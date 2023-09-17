@@ -1,0 +1,7 @@
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\EditorDocumentos\EditorDocumentos\bin\Debug\EditorDocumentos.exe.config
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\EditorDocumentos\EditorDocumentos\bin\Debug\EditorDocumentos.exe
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\EditorDocumentos\EditorDocumentos\bin\Debug\EditorDocumentos.pdb
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\EditorDocumentos\EditorDocumentos\obj\Debug\EditorDocumentos.csproj.AssemblyReference.cache
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\EditorDocumentos\EditorDocumentos\obj\Debug\EditorDocumentos.csproj.CoreCompileInputs.cache
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\EditorDocumentos\EditorDocumentos\obj\Debug\EditorDocumentos.exe
+C:\Users\Chavis\OneDrive\Escritorio\UDEM\Copilacion\EditorDocumentos\EditorDocumentos\obj\Debug\EditorDocumentos.pdb
